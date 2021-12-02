@@ -1,0 +1,24 @@
+num=input("Enter anything")
+a=len(num)-1
+for a i range(len(num)-1,-1,-1):
+    if a==0:
+      print(a)
+    if a==1:
+      print(a)
+    if a==2:
+      print(a)
+    if a==3:
+      print(a)
+    if a==4:
+      print(a)
+    if a==5:
+      print(a)
+    if a==6:
+      print(a)
+    if a==7:
+      print(a)
+    if a==8:
+      print(a)
+    if a==9:
+      print(a)
+    a=a-1
